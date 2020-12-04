@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="desc">Add description for your note ..</string>
+    <string name="tag">Work</string>
+    <string name="save_note">Save Note</string>
+    <string name="title">Title</string>
+    <string name="empty_note_not_saved">Empty note not saved</string>
+    <string name="note_saved">Note saved</string>
+    <string name="note_updated">Note updated</string>
+    <string name="note_deleted">Note deleted</string>
+</resources>
